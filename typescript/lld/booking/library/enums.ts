@@ -1,0 +1,1 @@
+export enum CopyStatus { AVAILABLE, LOANED, RESERVED }

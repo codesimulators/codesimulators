@@ -1,0 +1,11 @@
+from enum import Enum
+
+
+class DeliveryStatus(Enum):
+    UNASSIGNED = "UNASSIGNED"
+    SEARCHING = "SEARCHING"
+    COURIER_ASSIGNED = "COURIER_ASSIGNED"
+    ARRIVED = "ARRIVED"
+    PICKED_UP = "PICKED_UP"
+    DELIVERED = "DELIVERED"
+    CANCELLED = "CANCELLED"

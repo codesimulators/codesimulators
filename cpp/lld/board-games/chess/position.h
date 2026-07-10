@@ -1,0 +1,1 @@
+struct Position { int row, col; };

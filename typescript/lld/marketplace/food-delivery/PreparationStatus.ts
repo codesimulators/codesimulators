@@ -1,0 +1,1 @@
+export type PreparationStatus = 'RECEIVED' | 'PREPARING' | 'READY' | 'CANCELLED';

@@ -1,0 +1,2 @@
+export type DeliveryStatus =
+    | 'UNASSIGNED' | 'SEARCHING' | 'COURIER_ASSIGNED' | 'ARRIVED' | 'PICKED_UP' | 'DELIVERED' | 'CANCELLED';

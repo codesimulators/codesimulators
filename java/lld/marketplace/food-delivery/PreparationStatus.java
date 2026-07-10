@@ -1,0 +1,1 @@
+public enum PreparationStatus { RECEIVED, PREPARING, READY, CANCELLED }
